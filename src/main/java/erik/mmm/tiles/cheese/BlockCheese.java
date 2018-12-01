@@ -1,7 +1,6 @@
-package erik.mmm.blocks;
+package erik.mmm.tiles.cheese;
 
 import erik.mmm.Main;
-import erik.mmm.Reference;
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
 import net.minecraft.creativetab.CreativeTabs;

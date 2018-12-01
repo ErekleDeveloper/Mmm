@@ -1,8 +1,9 @@
 package erik.mmm.util;
 
-import erik.mmm.Reference;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+
+import erik.mmm.Main;
 
 public class Utils {
 
@@ -10,7 +11,7 @@ public class Utils {
 
     public static Logger getLogger() {
         if(logger == null)
-            logger = LogManager.getFormatterLogger(Reference.MOD_ID);
+            logger = LogManager.getFormatterLogger(Main.MOD_ID);
         return logger;
     }
 }

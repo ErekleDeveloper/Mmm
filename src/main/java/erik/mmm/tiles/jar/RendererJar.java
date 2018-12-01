@@ -1,7 +1,6 @@
-package erik.mmm.tileenitity.render;
+package erik.mmm.tiles.jar;
 
 import erik.mmm.init.ModItems;
-import erik.mmm.tileenitity.TileEntityJar;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.renderer.BufferBuilder;
 import net.minecraft.client.renderer.GlStateManager;

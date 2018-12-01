@@ -1,4 +1,4 @@
-package erik.mmm.tileenitity;
+package erik.mmm.tiles.jar;
 
 import erik.mmm.init.ModItems;
 import net.minecraft.block.state.IBlockState;

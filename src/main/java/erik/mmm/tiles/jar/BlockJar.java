@@ -1,8 +1,7 @@
-package erik.mmm.blocks;
+package erik.mmm.tiles.jar;
 
 import erik.mmm.Main;
 import erik.mmm.init.ModItems;
-import erik.mmm.tileenitity.TileEntityJar;
 import net.minecraft.block.Block;
 import net.minecraft.block.ITileEntityProvider;
 import net.minecraft.block.material.Material;

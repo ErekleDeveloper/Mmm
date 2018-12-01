@@ -1,7 +1,6 @@
 package erik.mmm.items;
 
 import erik.mmm.Main;
-import erik.mmm.Reference;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.ItemFood;
 

@@ -1,7 +1,6 @@
-package erik.mmm.blocks;
+package erik.mmm.tiles.cheesemaker;
 
 import erik.mmm.Main;
-import erik.mmm.Reference;
 import net.minecraft.block.BlockHorizontal;
 import net.minecraft.block.material.Material;
 import net.minecraft.block.state.BlockStateContainer;

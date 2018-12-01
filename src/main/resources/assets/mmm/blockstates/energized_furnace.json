@@ -1,0 +1,33 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "cube",
+    "textures": {
+      "particle": "mmm:blocks/energized_furnace",
+      "north": "mmm:blocks/front",
+      "south": "mmm:blocks/side",
+      "west": "mmm:blocks/side",
+      "east": "mmm:blocks/side",
+      "up": "mmm:blocks/top",
+      "down": "mmm:blocks/bottom"
+    }
+  },
+  "variants": {
+    "normal": [{}],
+    "inventory": [{}],
+    "facing": {
+      "north": {},
+      "south": {"y": 180},
+      "west": {"y": 270},
+      "east": {"y": 90},
+      "up": {"x": -90},
+      "down": {"x": 90}
+    }
+//    ,
+//    "state": {
+//      "off": {},
+//      "working": { "textures": { "north": "mmm:blocks/energized_furnace_working" } },
+//      "nopower": {"textures": { "north": "mmm:blocks/energized_furnace_nopower" } }
+//    }
+  }
+}

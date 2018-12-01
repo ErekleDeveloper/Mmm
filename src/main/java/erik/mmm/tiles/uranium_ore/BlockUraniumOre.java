@@ -1,4 +1,4 @@
-package erik.mmm.blocks;
+package erik.mmm.tiles.uranium_ore;
 
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;

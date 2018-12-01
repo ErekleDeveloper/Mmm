@@ -80,3 +80,4 @@ gradle
 run
 *.iml
 *.txt
+/bin/
