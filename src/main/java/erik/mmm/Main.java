@@ -14,7 +14,7 @@ import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 
-@Mod(modid=Main.MOD_ID, name=Main.NAME, version=Main.VERSION, acceptedMinecraftVersions=Main.ACCEPTED_VERSIONS)
+@Mod(modid=Main.MOD_ID, name=Main.NAME, version=Main.VERSION, acceptedMinecraftVersions=Main.ACCEPTED_VERSIONS, useMetadata = true, dependencies="required-after:forge@[14.23.5.2784,)")//, required-after:llibrary@[1.7.9,)")
 public class Main {
 	
 	public static final String MOD_ID = "mmm";

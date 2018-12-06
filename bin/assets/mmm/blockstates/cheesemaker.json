@@ -1,8 +1,0 @@
-{
-  "variants": {
-    "facing=north": { "model": "mmm:cheesemaker" },
-    "facing=east": { "model": "mmm:cheesemaker", "y": 90 },
-    "facing=south": { "model": "mmm:cheesemaker","y": 180 },
-    "facing=west": { "model": "mmm:cheesemaker", "y": 270 }
-  }
-}

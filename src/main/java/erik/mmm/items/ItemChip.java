@@ -23,8 +23,11 @@ public class ItemChip extends Item {
 	
 	@Override
 	public String getUnlocalizedName(ItemStack stack) {
-		for (int i = 0; i < EnumChips.values().length; i++)
-			return this.getUnlocalizedName() + "." + EnumChips.values()[i].getName();
+		for (int i = 0; i < EnumChips.values().length; i++) {
+			if(stack.getItemDamage() == i)
+				return this.getUnlocalizedName() + "." + EnumChips.values()[i].getName();
+			else continue;
+		}
 		return this.getUnlocalizedName() + "." + EnumChips.BASIC.getName();
 	}
 	
