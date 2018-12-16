@@ -1,0 +1,14 @@
+item.cheese.name=Cheese
+item.cracker.name=Cracker
+item.cword.name=The Cword
+item.cheese_cracker.name=Cheese and cracker
+item.uranium_ingot.name=Uranium Ingot
+item.chip.basic.name=Basic Chip
+item.chip.advanced.name=Advanced Chip
+
+tile.blockcheese.name=Cheese Block
+tile.jar.name=Jar
+tile.cheesemaker.name=Cheese Maker
+tile.uranium_ore.name=Uranium Ore
+
+itemGroup.tabMmm=Mmm

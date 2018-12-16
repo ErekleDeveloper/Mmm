@@ -78,6 +78,7 @@ classes
 eclipse
 gradle
 run
+.idea
 *.iml
 *.txt
 /bin/
